@@ -1,0 +1,20 @@
+{
+  "name": "alergant",
+  "description": "busca, encuentra,come",
+  "launch_path":"/login.php",
+   "icons": {
+    "128": "./icons_firefox_os/alergant128.png",
+    "60": "./icons_firefox_os/alergant 60.png"
+
+  },
+  "installs_allowed_from": [
+  "https://marketplace.firefox.com"
+	],
+  "orientation": ["portrait","landscape-secondary"],
+  "type":"web",
+  "developer": {
+    "name": "Guirmet",
+    "url": "www.alergant.es"
+  },
+  "default_locale": "es"
+}
